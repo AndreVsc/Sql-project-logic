@@ -1,8 +1,5 @@
-Entendido! Com base na estrutura e na estética do exemplo que você forneceu, preparei uma nova versão do README.md para o seu projeto de E-commerce. Ele é mais detalhado, profissional e bem organizado.
+## Projeto de Banco de Dados para E-commerce 🚀
 
-Pode copiar e colar o texto abaixo diretamente no seu arquivo README.md.
-
-Projeto de Banco de Dados para E-commerce 🚀
 O E-commerce DB é um projeto que fornece um esquema de banco de dados relacional completo para uma plataforma de comércio eletrônico. Ele coordena todas as entidades e processos essenciais, desde o cadastro de clientes e produtos até a conclusão de um pedido, garantindo a integridade dos dados e a performance das consultas.
 
 <img src="ModelER.png" alt="Modelo Entidade-Relacionamento do E-commerce" style="width: 100%;" />
